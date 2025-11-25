@@ -54,7 +54,7 @@ export default function Contact() {
 
   const handleDownloadResume = () => {
     const a = document.createElement("a")
-    a.href = "/leandro_aguirre_cv.pdf"
+    a.href = "/leandro_aguirre_cv_es.pdf"
     a.download = "Leandro_Aguirre_CV.pdf"
     a.target = "_blank"
     document.body.appendChild(a)

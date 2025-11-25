@@ -125,7 +125,7 @@ export default function Hero() {
               <ArrowRight className="w-4 h-4" aria-hidden="true" />
             </motion.a>
             <motion.a
-              href="/leandro_aguirre_cv.pdf"
+              href="/leandro_aguirre_cv_es.pdf"
               download="Leandro_Aguirre_CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
