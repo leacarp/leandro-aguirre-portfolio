@@ -1,0 +1,175 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "welcome": "Welcome to my portfolio",
+    "greeting": "Hi, I'm",
+    "role": "Software Developer",
+    "description": "Software Developer with a strong focus on back-end development. Working with Nest.js, TypeScript, MongoDB, PostgreSQL and Vue.js to build scalable applications. Passionate about clean code principles, design patterns, and automation.",
+    "viewWork": "View My Work",
+    "downloadResume": "Download Resume",
+    "technicalDegree": "Technical Degree",
+    "stats": {
+      "techStack": "Tech Stack",
+      "projects": "Projects",
+      "learningMode": "Learning Mode"
+    }
+  },
+  "about": {
+    "title": "About",
+    "titleHighlight": "Me",
+    "intro": "I'm a passionate Software Developer with a strong focus on",
+    "introHighlight": "back-end development",
+    "intro2": ", though I'm fully open to working across the full stack. I hold a",
+    "degree": "University Technical Degree in Programming from UTN",
+    "thesis": "and I'm currently completing my thesis. Next year, I'll begin my",
+    "engineering": "System Engineering degree",
+    "engineering2": ", continuing my journey in tech.",
+    "experience": "I've worked for",
+    "experienceHighlight": "6 months as a Software Developer",
+    "experience2": ", building scalable applications with Node.js, Vue.js, and databases like MongoDB. I'm deeply committed to",
+    "cleanCode": "clean code principles, SOLID design patterns",
+    "cleanCode2": ", and modern development workflows including testing, code reviews, and Git flow.",
+    "learning": "Beyond coding, I'm constantly learning and exploring cutting-edge technologies like",
+    "learningTech": "automation (n8n), MCP, RAG, and docker",
+    "learning2": ". I'm passionate about staying up-to-date with tech and AI trends, building personal projects, and continuously expanding my skill set. I love",
+    "hobbies": "watch movies, gaming, and diving deep into technology",
+    "hobbies2": "—always in learning mode.",
+    "coreExpertise": "Core Expertise",
+    "quickInfo": "Quick Info",
+    "expertise": {
+      "api": {
+        "title": "API Development",
+        "description": "Building robust and scalable RESTful APIs using Node.js, TypeScript, and Nest.js framework."
+      },
+      "frontend": {
+        "title": "Frontend Solutions",
+        "description": "Creating interactive and responsive user interfaces with Vue.js ecosystem: Nuxt.js and Quasar."
+      },
+      "architecture": {
+        "title": "Architecture",
+        "description": "Understanding and applying Microservices, Monolithic, and Clean Architecture principles."
+      },
+      "quality": {
+        "title": "Code Quality",
+        "description": "Implementing unit testing with Vitest and applying SOLID design patterns for maintainable code."
+      },
+      "automation": {
+        "title": "Automation",
+        "description": "Exploring workflow automation with n8n, MCP, RAG, and vector databases for modern solutions."
+      },
+      "learning": {
+        "title": "Learning Mindset",
+        "description": "Committed to continuous improvement, staying current with tech trends, and building personal projects."
+      }
+    },
+    "info": {
+      "location": "Location",
+      "email": "Email",
+      "phone": "Phone",
+      "status": "Status",
+      "statusValue": "Open to Work"
+    }
+  },
+  "skills": {
+    "title": "Skills &",
+    "titleHighlight": "Expertise",
+    "backend": "Backend Development",
+    "frontend": "Frontend & Styling",
+    "data": "Data & DevOps",
+    "emerging": "Emerging Tech & AI"
+  },
+  "projects": {
+    "title": "Featured",
+    "titleHighlight": "Projects",
+    "categories": {
+      "professional": "Professional Work",
+      "team": "Team Project",
+      "personal": "Personal Project",
+      "academic": "Academic Project"
+    },
+    "links": {
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "live": "Live Demo"
+    },
+    "list": {
+      "vortia": {
+        "title": "Vortia - Commercial Website",
+        "description": "Professional website developed under formal contract using Nuxt.js. Collaborated with client through Jira for design implementation and view creation."
+      },
+      "rappi": {
+        "title": "Rappi Clone - Full Stack Application",
+        "description": "Food delivery platform simulation with strong focus on backend architecture. Built with a team of 4 using DDD (Hexagonal/Clean Architecture), SOLID principles, and design patterns."
+      },
+      "pokemon": {
+        "title": "Who Is That Pokémon?",
+        "description": "Interactive game where users identify Pokémon from silhouettes. Features 4 multiple-choice options and real-time data from PokéAPI."
+      },
+      "chat": {
+        "title": "Project Chat API",
+        "description": "Simple chat application that interacts with an external API providing binary 'yes' or 'no' responses with relevant GIFs, activated only for questions."
+      },
+      "marathon": {
+        "title": "Marathon System - Full Stack",
+        "description": "University project for registering runner's best times across different cities. Complete CRUD application with city-runner relationship management."
+      }
+    }
+  },
+  "experience": {
+    "title": "Professional",
+    "titleHighlight": "Experience",
+    "job": {
+      "title": "Software Developer",
+      "company": "Estudio Rocha & Asociados",
+      "location": "San Francisco, Córdoba, Argentina",
+      "highlights": [
+        "Designed and implemented RESTful APIs using Node.js, Express, and MongoDB for property management systems, handling complex data models with over 4,000 records",
+        "Automated rental receipt generation and delivery process using n8n integration, achieving 100% elimination of manual workflows and zero human errors",
+        "Developed responsive front-end interface with Vue.js and Quasar Framework, consuming custom-built backend APIs to deliver an interactive user experience",
+        "Managed application deployment and maintenance on Railway platform, ensuring high availability and continuous system performance"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Get In",
+    "titleHighlight": "Touch",
+    "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending..."
+    },
+    "info": {
+      "email": "Email",
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "resume": "Download Resume"
+    }
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "skills": "Skills",
+    "location": "Location",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "rights": "All rights reserved.",
+    "skillsList": {
+      "backend": "Node.js & Nest.js",
+      "typescript": "TypeScript & Vue.js",
+      "databases": "MongoDB & PostgreSQL",
+      "architecture": "Clean Architecture"
+    }
+  }
+}
+
+

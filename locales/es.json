@@ -1,0 +1,175 @@
+{
+  "nav": {
+    "about": "Sobre Mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "welcome": "Bienvenido a mi portfolio",
+    "greeting": "Hola, soy",
+    "role": "Desarrollador de Software",
+    "description": "Desarrollador de Software con un fuerte enfoque en desarrollo back-end. Trabajo con Nest.js, TypeScript, MongoDB, PostgreSQL y Vue.js para construir aplicaciones escalables. Apasionado por principios de código limpio, patrones de diseño y automatización.",
+    "viewWork": "Ver Mi Trabajo",
+    "downloadResume": "Descargar CV",
+    "technicalDegree": "Título Técnico",
+    "stats": {
+      "techStack": "Tecnologías",
+      "projects": "Proyectos",
+      "learningMode": "Modo Aprendizaje"
+    }
+  },
+  "about": {
+    "title": "Sobre",
+    "titleHighlight": "Mí",
+    "intro": "Soy un apasionado Desarrollador de Software con un fuerte enfoque en",
+    "introHighlight": "desarrollo back-end",
+    "intro2": ", aunque estoy completamente abierto a trabajar en todo el stack. Poseo un",
+    "degree": "Título Técnico Universitario en Programación de la UTN",
+    "thesis": "y actualmente estoy completando mi tesis. El próximo año, comenzaré mi carrera de",
+    "engineering": "Ingeniería en Sistemas",
+    "engineering2": ", continuando mi camino en la tecnología.",
+    "experience": "He trabajado durante",
+    "experienceHighlight": "6 meses como Desarrollador de Software",
+    "experience2": ", construyendo aplicaciones escalables con Node.js, Vue.js y bases de datos como MongoDB. Estoy profundamente comprometido con",
+    "cleanCode": "principios de código limpio, patrones de diseño SOLID",
+    "cleanCode2": " y flujos de trabajo de desarrollo modernos, incluyendo testing, revisiones de código y Git flow.",
+    "learning": "Más allá de programar, estoy constantemente aprendiendo y explorando tecnologías de vanguardia como",
+    "learningTech": "automatización (n8n), MCP, RAG y docker",
+    "learning2": ". Me apasiona mantenerme actualizado con las tendencias de tecnología e IA, construir proyectos personales y expandir continuamente mi conjunto de habilidades. Me encanta",
+    "hobbies": "ver películas, jugar videojuegos y sumergirme en la tecnología",
+    "hobbies2": "—siempre en modo aprendizaje.",
+    "coreExpertise": "Experiencia Principal",
+    "quickInfo": "Información Rápida",
+    "expertise": {
+      "api": {
+        "title": "Desarrollo de APIs",
+        "description": "Construyendo APIs RESTful robustas y escalables usando Node.js, TypeScript y el framework Nest.js."
+      },
+      "frontend": {
+        "title": "Soluciones Frontend",
+        "description": "Creando interfaces de usuario interactivas y responsivas con el ecosistema Vue.js: Nuxt.js y Quasar."
+      },
+      "architecture": {
+        "title": "Arquitectura",
+        "description": "Entendiendo y aplicando principios de Microservicios, Monolíticos y Arquitectura Limpia."
+      },
+      "quality": {
+        "title": "Calidad de Código",
+        "description": "Implementando pruebas unitarias con Vitest y aplicando patrones de diseño SOLID para código mantenible."
+      },
+      "automation": {
+        "title": "Automatización",
+        "description": "Explorando automatización de flujos de trabajo con n8n, MCP, RAG y bases de datos vectoriales para soluciones modernas."
+      },
+      "learning": {
+        "title": "Mentalidad de Aprendizaje",
+        "description": "Comprometido con la mejora continua, manteniéndome actualizado con las tendencias tecnológicas y construyendo proyectos personales."
+      }
+    },
+    "info": {
+      "location": "Ubicación",
+      "email": "Correo",
+      "phone": "Teléfono",
+      "status": "Estado",
+      "statusValue": "Disponible para Trabajar"
+    }
+  },
+  "skills": {
+    "title": "Habilidades y",
+    "titleHighlight": "Experiencia",
+    "backend": "Desarrollo Backend",
+    "frontend": "Frontend y Estilos",
+    "data": "Datos y DevOps",
+    "emerging": "Tecnologías Emergentes e IA"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "titleHighlight": "Destacados",
+    "categories": {
+      "professional": "Trabajo Profesional",
+      "team": "Proyecto en Equipo",
+      "personal": "Proyecto Personal",
+      "academic": "Proyecto Académico"
+    },
+    "links": {
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "live": "Demo en Vivo"
+    },
+    "list": {
+      "vortia": {
+        "title": "Vortia - Sitio Web Comercial",
+        "description": "Sitio web profesional desarrollado bajo contrato formal usando Nuxt.js. Colaboré con el cliente a través de Jira para la implementación del diseño y creación de vistas."
+      },
+      "rappi": {
+        "title": "Clon de Rappi - Aplicación Full Stack",
+        "description": "Simulación de plataforma de entrega de comida con fuerte enfoque en arquitectura backend. Construido con un equipo de 4 usando DDD (Arquitectura Hexagonal/Limpia), principios SOLID y patrones de diseño."
+      },
+      "pokemon": {
+        "title": "¿Quién es ese Pokémon?",
+        "description": "Juego interactivo donde los usuarios identifican Pokémon a partir de siluetas. Incluye 4 opciones de selección múltiple y datos en tiempo real de PokéAPI."
+      },
+      "chat": {
+        "title": "Project Chat API",
+        "description": "Aplicación de chat simple que interactúa con una API externa proporcionando respuestas binarias de 'sí' o 'no' con GIFs relevantes, activada solo para preguntas."
+      },
+      "marathon": {
+        "title": "Sistema de Maratón - Full Stack",
+        "description": "Proyecto universitario para registrar los mejores tiempos de corredores en diferentes ciudades. Aplicación CRUD completa con gestión de relaciones ciudad-corredor."
+      }
+    }
+  },
+  "experience": {
+    "title": "Experiencia",
+    "titleHighlight": "Profesional",
+    "job": {
+      "title": "Desarrollador de Software",
+      "company": "Estudio Rocha & Asociados",
+      "location": "San Francisco, Córdoba, Argentina",
+      "highlights": [
+        "Diseñé e implementé APIs RESTful usando Node.js, Express y MongoDB para sistemas de gestión de propiedades, manejando modelos de datos complejos con más de 4,000 registros",
+        "Automaticé la generación y entrega de recibos de alquiler usando integración con n8n, logrando 100% de eliminación de flujos de trabajo manuales y cero errores humanos",
+        "Desarrollé interfaz frontend responsiva con Vue.js y Quasar Framework, consumiendo APIs backend propias para entregar una experiencia de usuario interactiva",
+        "Gestioné el despliegue y mantenimiento de aplicaciones en la plataforma Railway, asegurando alta disponibilidad y rendimiento continuo del sistema"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Ponte en",
+    "titleHighlight": "Contacto",
+    "description": "Siempre estoy abierto a discutir nuevos proyectos, ideas creativas u oportunidades para ser parte de tus visiones. ¡No dudes en contactarme!",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Tu Correo",
+      "message": "Tu Mensaje",
+      "send": "Enviar Mensaje",
+      "sending": "Enviando..."
+    },
+    "info": {
+      "email": "Correo",
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "resume": "Descargar CV"
+    }
+  },
+  "footer": {
+    "navigation": "Navegación",
+    "connect": "Conectar",
+    "skills": "Habilidades",
+    "location": "Ubicación",
+    "email": "Correo",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "rights": "Todos los derechos reservados.",
+    "skillsList": {
+      "backend": "Node.js & Nest.js",
+      "typescript": "TypeScript & Vue.js",
+      "databases": "MongoDB & PostgreSQL",
+      "architecture": "Arquitectura Limpia"
+    }
+  }
+}
+
+
