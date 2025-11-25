@@ -42,7 +42,7 @@ export default function Projects() {
       title: t("projects.list.vortia.title"),
       description: t("projects.list.vortia.description"),
       tech: ["Nuxt.js", "Vue.js", "JavaScript", "CSS"],
-      image: "vortia_image_cap.png",
+      image: "/vortia_image_cap.png",
       liveUrl: "https://vortia.com.ar/",
       category: t("projects.categories.professional"),
       color: "from-blue-500 to-cyan-500",
