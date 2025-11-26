@@ -137,9 +137,9 @@
     }
   },
   "contact": {
-    "title": "Get In",
-    "titleHighlight": "Touch",
-    "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!",
+    "title": "Let's Talk!",
+    "titleHighlight": "",
+    "description": "Open to new proposals and projects to be part of your idea's growth. Don't hesitate to reach out.",
     "form": {
       "name": "Your Name",
       "email": "Your Email",

@@ -137,9 +137,9 @@
     }
   },
   "contact": {
-    "title": "Ponte en",
-    "titleHighlight": "Contacto",
-    "description": "Siempre estoy abierto a discutir nuevos proyectos, ideas creativas u oportunidades para ser parte de tus visiones. ¡No dudes en contactarme!",
+    "title": "¡Hablemos!",
+    "titleHighlight": "",
+    "description": "Abierto a nuevas propuestas y proyectos para ser parte del crecimiento de tu idea. No dudes en contactarme.",
     "form": {
       "name": "Tu Nombre",
       "email": "Tu Correo",
