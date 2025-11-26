@@ -87,7 +87,7 @@ export default function About() {
           </motion.div>
 
           <motion.div variants={itemVariants} className="mb-16 max-w-3xl">
-            <p className="text-xl text-muted-foreground leading-relaxed mb-6">
+            <p className="text-lg text-muted-foreground leading-relaxed mb-6">
               {t("about.intro")}{" "}
               <span className="font-semibold text-foreground">{t("about.introHighlight")}</span>{t("about.intro2")}{" "}
               <span className="font-semibold text-foreground">{t("about.degree")}</span> {t("about.thesis")}{" "}

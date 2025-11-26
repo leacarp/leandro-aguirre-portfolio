@@ -73,9 +73,8 @@ export default function Contact() {
           className="mb-16"
         >
           <h2 className="text-5xl md:text-6xl font-bold mb-6 text-balance">
-            {t("contact.title")}{" "}
             <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
-              {t("contact.titleHighlight")}
+              {t("contact.title")}
             </span>
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-primary to-accent rounded-full mx-auto mb-6" />
